@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrekoSakis
-- 👀 I’m interested in mathmatical contorl systems
+- 👀 I’m interested in mathmatical control systems
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on building my first program
 - 📫 How to reach me ...
